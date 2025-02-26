@@ -1,8 +1,8 @@
 {
-  "example": {
+  "smashmc": {
     "settings": {
       "enabled": {
-        "name": "Enabled"
+        "name": "Aktiviert"
       }
     }
   }
